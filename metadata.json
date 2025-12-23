@@ -1,0 +1,8 @@
+{
+  "name": "AICommander",
+  "description": "A Norton Commander-style multi-pane TUI for managing local and cloud storage with an integrated Gemini-powered AI agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
